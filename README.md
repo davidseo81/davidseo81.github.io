@@ -1,2 +1,2 @@
 # blog
-깃헙 매일쓰기
+https://davidseo81.github.io/blog/

@@ -1,5 +1,5 @@
 # Davidseo's blog
-    https://davidseo81.github.io/blog/
+> https://davidseo81.github.io/blog/
 
 
 # 글작성법

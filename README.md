@@ -1,5 +1,6 @@
 # Davidseo's blog
-> https://davidseo81.github.io/blog/
+    https://davidseo81.github.io/blog/
+
 
 # 글작성법
     자신의 GitHub 저장소에서 Create new file을 눌러 새 파일을 생성합니다.

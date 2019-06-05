@@ -1,15 +1,9 @@
 ---
-title: "블로그 글 작성 방법"
-date: 2017-10-20 08:26:28 -0400
-categories: study 2019 06 04 
+title: "마크다운 작성 방법"
+date: 2019-06-05 08:26:28 -0400
+categories: study 2019 06 04
 ---
-
-블로그 글 작성 방법
-
-
-title: "블로그 글 작성 방법"
-date: 2017-10-20 08:26:28 -0400
-categories: study 2019 06 04 
+ 
 
 
 [공통] 마크다운 markdown 작성법
